@@ -1,1 +1,1 @@
-# HatenaBlogSample
+# SageMaker Serverless Inference + PyTorch + Lambda + API Gateway
